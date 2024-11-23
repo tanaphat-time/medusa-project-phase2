@@ -17,7 +17,7 @@ https://45.136.236.146/us
 │    │    └── medusa_variables.robot
 │    ├── result-log.PNG
 │    ├── result-report.PNG
-│    └── Automated-UI-Testing.md
+│    └── README.md
 ├── Performance-Testing/
 │    ├── test_cases/
 │    │    ├── average-load-test.js
@@ -25,10 +25,10 @@ https://45.136.236.146/us
 │    │    ├── spike-test.js
 │    │    └── stress.test.js
 │    ├── results.pdf
-│    └── Performance-Testing.md
+│    └── README.md
 └── System-Testing/
     ├── results.pdf
-    └── System-Testing.md
+    └── README.md
 ```
 
 ### Detailed Tests Documentation

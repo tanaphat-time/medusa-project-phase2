@@ -33,7 +33,7 @@ To run test in the `average-load-test.js` file, use the following command:
 To run test in the `soak-test.js` file, use the following command:
 
 ```sh
- k6 run .\test_cases\soak-load-test.js
+ k6 run .\test_cases\soak-test.js
 ```
 
 ### Run Spike Test

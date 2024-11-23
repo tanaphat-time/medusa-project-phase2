@@ -6,12 +6,12 @@ Performance testing for Medusa Store using k6 extensible load testing tool, focu
 
 ```bash
 Performance-Testing/
-├── README.md       
-├── test_cases/
-│   ├── average-load-test.js
-│   ├── soak-test.js
-│   ├── spike-test.js
-│   └── stress-test.js
+├── Performance-Testing.md       
+└── test_cases/
+   ├── average-load-test.js
+   ├── soak-test.js
+   ├── spike-test.js
+   └── stress-test.js
 ```
 
 ## Prerequisites

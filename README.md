@@ -6,7 +6,6 @@ https://45.136.236.146/us
 ## Project Structure
 
 ```
-2024-ITCS362-3_project1/
 2024-ITCS362-3_project2/
 ├── Automated-UI-Testing/
 │    ├── resoureces/

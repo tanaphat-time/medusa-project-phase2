@@ -6,7 +6,9 @@ Automated testing for Medusa Store using Robot Framework, focusing on authentica
 
 ```bash
 Automated-UI-Testing/
-├── README.md       
+├── README.md
+├── result-log.PNG
+├── result-report.PNG
 ├── resources/
 │   ├── common.robot
 │   └── medusa_keywords.robot

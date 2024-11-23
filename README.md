@@ -1,8 +1,6 @@
 # 2024-ITCS362-3
 
 ## Reference Project
-https://github.com/formicary/my-bank
-
 https://45.136.236.146/us
 
 ## Project Structure

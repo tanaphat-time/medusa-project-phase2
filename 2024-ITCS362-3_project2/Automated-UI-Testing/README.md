@@ -49,3 +49,10 @@ The following tags can be used with the `-i` option:
 - `register`
 
 Replace `[tag]` with the desired tag to run tests for that specific tag.
+
+## Test Results
+
+![result-report](2024-ITCS362-3_project2/Automated-UI-Testing/result-report.PNG)
+![result-log](2024-ITCS362-3_project2/Automated-UI-Testing/result-log.PNG)
+
+จากการทดสอบ Automated UI แสดงให้เห็นว่าเว็บไซต์นี้มีการทำงานที่ถูกต้อง โดยมีการตอบสนองของการทดสอบ Login ทั้ง 3 test cases และ Register 1 test case แสดงผลเป็นตามที่คาดไว้
